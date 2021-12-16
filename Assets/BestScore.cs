@@ -11,4 +11,5 @@ public class BestScore : MonoBehaviour
         GetComponent<Text>().text =  "Best Score: "+Score.bestScore;
     }
 
+
 }
